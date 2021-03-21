@@ -22,7 +22,7 @@ public class SelectSort {
         sort(arr3);
         System.out.println(Arrays.toString(arr3));
     }
-
+    //I will test git commit b
     public static void sort(int[] arr) {
         if (null == arr || arr.length <= 1) {
             return;
