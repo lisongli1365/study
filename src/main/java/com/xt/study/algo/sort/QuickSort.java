@@ -45,5 +45,6 @@ public class QuickSort {
         quickSort(arr, i + 1, end);
         //I will test git commit a
         //test merge conflict
+        //test merge conflict2
     }
 }
